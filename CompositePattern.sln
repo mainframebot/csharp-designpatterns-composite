@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{801AB1D7-FBC2-4605-8767-CEDF247C6507}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A8E9773F-160C-4F10-B1E5-F79080E51FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatternLesson", "CompositePatternLesson\CompositePatternLesson.csproj", "{DD11FF59-FDF1-41E6-B729-3F32FE446930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatternTests", "CompositePatternTests\CompositePatternTests.csproj", "{ACF255F1-E429-4870-A373-2A700873F8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD11FF59-FDF1-41E6-B729-3F32FE446930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD11FF59-FDF1-41E6-B729-3F32FE446930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD11FF59-FDF1-41E6-B729-3F32FE446930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD11FF59-FDF1-41E6-B729-3F32FE446930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF255F1-E429-4870-A373-2A700873F8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF255F1-E429-4870-A373-2A700873F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF255F1-E429-4870-A373-2A700873F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF255F1-E429-4870-A373-2A700873F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DD11FF59-FDF1-41E6-B729-3F32FE446930} = {801AB1D7-FBC2-4605-8767-CEDF247C6507}
+		{ACF255F1-E429-4870-A373-2A700873F8BE} = {A8E9773F-160C-4F10-B1E5-F79080E51FB9}
+	EndGlobalSection
+EndGlobal
